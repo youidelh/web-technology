@@ -1,0 +1,30 @@
+@*
+ * Call the `main` template with two arguments. The first
+ * argument is a `String` with the title of the page, the second
+ * argument is an `Html` object containing the body of the page.
+ *@
+@main("Welcome to TicTacToe 3D") {
+
+    @*
+     * Get an `Html` object by calling the built-in Play welcome
+     * template and passing a `String` message.
+     *@
+	<div class="row indexWrapper">
+  		<div class="col-xs-6 col-xs-offset-1 cardList loginForm">
+			<div class="loginmodal-container">
+				d
+			</div>
+		</div>
+		<div class="col-xs-3 cardList loginForm">
+			<div class="loginmodal-container">
+				<h1>Login and start playing</h1><br>
+			  <form>
+				<input type="text" name="user" placeholder="Username">
+				<!--<input type="password" name="pass" placeholder="Password">-->
+				<input type="submit" name="login" class="login loginmodal-submit" value="Login">
+			  </form>
+			</div>
+		</div>
+  	</div>
+ }  
+

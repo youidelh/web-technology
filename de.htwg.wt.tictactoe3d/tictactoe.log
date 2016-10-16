@@ -499,3 +499,33 @@ ysf you can start, the grids with the number in them are
  an example of what you should give here if you want to player in one of the cells,
  the 3 numbers are the row, column, grid. Now, MAKE YOU FIRST MOVE :) !!
 
+INFO application-akka.actor.default-dispatcher-9 de.htwg.tictactoe.view.tui - 
+\-------\-------\-------\ \-------\-------\-------\
+ \       \       \       \ \  000  \  010  \  020  \
+  \-------\-------\-------\ \-------\-------\-------\
+   \       \       \       \ \  100  \  110  \  120  \
+    \-------\-------\-------\ \-------\-------\-------\
+     \       \       \       \ \  200  \  210  \  220  \
+      \-------\-------\-------\ \-------\-------\-------\
+
+\-------\-------\-------\ \-------\-------\-------\
+ \       \       \       \ \  001  \  011  \  021  \
+  \-------\-------\-------\ \-------\-------\-------\
+   \       \       \       \ \  101  \  111  \  121  \
+    \-------\-------\-------\ \-------\-------\-------\
+     \       \       \       \ \  201  \  211  \  221  \
+      \-------\-------\-------\ \-------\-------\-------\
+
+\-------\-------\-------\ \-------\-------\-------\
+ \       \       \       \ \  002  \  012  \  022  \
+  \-------\-------\-------\ \-------\-------\-------\
+   \       \       \       \ \  102  \  112  \  122  \
+    \-------\-------\-------\ \-------\-------\-------\
+     \       \       \       \ \  202  \  212  \  222  \
+      \-------\-------\-------\ \-------\-------\-------\
+
+INFO application-akka.actor.default-dispatcher-9 de.htwg.tictactoe.view.tui - Players are defined!!!! 
+ysf you can start, the grids with the number in them are
+ an example of what you should give here if you want to player in one of the cells,
+ the 3 numbers are the row, column, grid. Now, MAKE YOU FIRST MOVE :) !!
+
